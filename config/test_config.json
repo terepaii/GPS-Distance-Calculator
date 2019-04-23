@@ -1,0 +1,11 @@
+{
+  "TEST": {
+    "RANGE": 100,
+    "DATASET_URL": "https://s3.amazonaws.com/intercom-take-home-test/customers.txt",
+    "ORIGIN_COORDINATES": {
+      "LAT": 53.3391919,
+      "LON": -6.2578313
+    },
+    "OUTPUT_FILE": "output/output.txt"
+  }
+}
